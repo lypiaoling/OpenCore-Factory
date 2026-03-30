@@ -1,11 +1,10 @@
 # OpenCore-Factory
 
-[![Build Status](https://dev.azure.com/OpenCore-Factory/OpenCore-Factory/_apis/build/status/williambj1.OpenCore-Factory?branchName=master)](https://dev.azure.com/OpenCore-Factory/OpenCore-Factory/_build/latest?definitionId=1&branchName=master)
-[![Release](https://img.shields.io/github/v/release/williambj1/OpenCore-Factory?color=orange&include_prereleases&label=Release)](https://github.com/williambj1/OpenCore-Factory/releases)
+[![Release](https://img.shields.io/github/v/release/lypiaoling/OpenCore-Factory?color=orange&include_prereleases&label=Release)](https://github.com/lypiaoling/OpenCore-Factory/releases)
 
 ## 语言
 
-- [English](https://github.com/williambj1/OpenCore-Factory/blob/master/README.md)
+- [English](https://github.com/lypiaoling/OpenCore-Factory/blob/master/README.md)
 - **简体中文（当前）**
 
 ## **警告⚠️**
@@ -26,7 +25,7 @@
 
 ### 下载
 
-👉 [![Release](https://img.shields.io/github/v/release/williambj1/OpenCore-Factory?color=orange&include_prereleases&label=Release)](https://github.com/williambj1/OpenCore-Factory/releases) 👈
+👉 [![Release](https://img.shields.io/github/v/release/lypiaoling/OpenCore-Factory?color=orange&include_prereleases&label=Release)](https://github.com/lypiaoling/OpenCore-Factory/releases) 👈
 
 > 点击上面的标签下载
 >
